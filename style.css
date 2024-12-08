@@ -292,6 +292,6 @@ section{
 @media (max-width: 884px) {
     .content h1 span {
         color:red;
-        text-shadow: 0  0 10px blue;
+        text-shadow: 0  0 10px red;
     }
 }
